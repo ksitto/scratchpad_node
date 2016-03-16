@@ -1,7 +1,7 @@
 {
-  "name": "restify-postGIS",
-  "description": "A simple mapping application for finding National Parks and Historic Sites, powered by postGIS and Leaflet maps",
-  "version": "0.1.0",
+  "name": "scratchpad-node",
+  "description": "A place to mess around with node.js",
+  "version": "0.0.1",
   "private": false,
   "engines": {
     "node": "0.10.x",
