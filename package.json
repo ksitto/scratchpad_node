@@ -1,0 +1,22 @@
+{
+  "name": "restify-postGIS",
+  "description": "A simple mapping application for finding National Parks and Historic Sites, powered by postGIS and Leaflet maps",
+  "version": "0.1.0",
+  "private": false,
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "dependencies": {
+    "express": "*" ,
+    "config-multipaas" : "*"   
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksitto/scratchpad_node.git"
+  },
+  "scripts": {
+    "start": "node server.js"    
+  },
+  "main": "server.js"
+}
